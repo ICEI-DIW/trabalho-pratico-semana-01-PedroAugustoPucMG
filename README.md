@@ -3,11 +3,12 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Pedro Augusto Gomes de Araújo 
+Matricula: 887920
 
 ## Tela de inspeção com navegador
-
+![alt text](FerramentasDEV.jpg)
 
 ## Tela de projeto no Replit
+![alt text](<Hello Word!.jpg>)
 
